@@ -89,4 +89,23 @@
 -
 - ## Isomerism
 	- It is defined as a compound having the same molecular formula but different structure.
-	-
+	- ![Module 7 Organic Chemistry: Isomers – HSC Chemistry – Science Ready](https://cdn.shopify.com/s/files/1/0093/2298/7617/files/Screen_Shot_2022-07-14_at_4.25.57_PM.png?v=1657779972)
+	- Here, Dimethyl ether is an isomer of Ethanol.
+	- <img src="https://mermaid.ink/img/IGZsb3djaGFydCBURAogICAgSXNvbWVyaXNtIC0tPiBTdHJ1Y3R1cmFsCiAgICBJc29tZXJpc20gLS0-IFN0ZXJlbwogICAgU3RydWN0dXJhbCAtLT4gQ2hhaW4KICAgIFN0cnVjdHVyYWwgLS0-IFBvc2l0aW9uCiAgICBTdHJ1Y3R1cmFsIC0tPiBGdW5jdGlvbmFsCiAgICBTdGVyZW8gLS0-IEdlb21ldHJpYwogICAgU3RlcmVvIC0tPiBPcHRpY2FsCg" />
+	  {{renderer :mermaid_uugyvnpnfb}}
+	- ### Stereoisomer
+		- Rearrangement of Atoms
+	- ### Structural Isomer
+		- Rearrangement of Molecules
+	- ### Chain Isomerism
+		- Different arrangement of Carbon Atoms
+	- ### Position Isomerism
+		- Different position of bonds.
+		- CH_{3}COONa + NaOH --CaO-> CH_{4} + Na_{2}CO_{3}
+		- ![image.png](../assets/image_1715846637048_0.png)
+- ## Halide Functional Groups
+	- -OH
+	- -Br
+	- -Cl
+	- -I [iodine]
+	- They are also electrophile.

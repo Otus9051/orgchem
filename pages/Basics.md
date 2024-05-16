@@ -101,8 +101,8 @@
 		- Different arrangement of Carbon Atoms
 	- ### Position Isomerism
 		- Different position of bonds.
-		- CH_{3}COONa + NaOH --CaO-> CH_{4} + Na_{2}CO_{3}
-		- ![image.png](../assets/image_1715846637048_0.png)
+		- $$\ce {CH3COONa + NaOH ->[\ce{CaO}] CH4 + Na2CO3}$$
+		- ![image.png](../assets/image_1715846637048_0.png){:height 124, :width 473}
 - ## Halide Functional Groups
 	- -OH
 	- -Br

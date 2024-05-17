@@ -60,4 +60,3 @@
 			- ![image.png](../assets/image_1715925463570_0.png)
 		- **Slow Combustion**:
 			- ![image.png](../assets/image_1715925501033_0.png)
--

@@ -18,4 +18,16 @@ public:: true
 			- Alternatively, ethanol is produced when ethene is heated with water at 300C and 60ATM pressure in presence of phosphoric acid catalyst
 			- $$\ce {C2H4 + H2O ->[\ce{H3PO4}][300C, 60 ATM] C2H5OH}$$
 	- ### Properties of Alcohols
+		- #### **Nature:**
+			- They are inflammable volatile liquids.
+		- #### **Boiling point:**
+			- Their boiling point increases with an increase in molecular weight
+			- **Examples:**
+				- i. $$\ce{CH3OH}$$ = 64.5C
+				- ii. $$\ce{CH3CH2OH}$$ = 78.3C
+		- #### **Solubility:**
+			- They are soluble in water as well as in organic solvents
+		- #### **Density:**
+			- Ethanol is lighter than water, its specific gravity is **0.79** at **293 K**
 		-
+	-

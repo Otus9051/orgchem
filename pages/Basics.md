@@ -109,3 +109,6 @@
 	- -Cl
 	- -I [iodine]
 	- They are also electrophile.
+- ## Chemical Tests for Alkanes, Alkenes, and Alkynes
+	- ![image.png](../assets/image_1717946022917_0.png)
+	-

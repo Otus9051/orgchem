@@ -1,4 +1,44 @@
 ## Double Bond
 	- Alkenes are **unsaturated** aliphatic [open-chain structure] hydrocarbons that contain one **double bond**
 	- They are also called **olefins** [oil forming] because the lower members of alkenes form oily products when they are treated with $$\ce {Cl}$$ or $$\ce {Br}$$. Alkenes form a homologous series having the general formula $$\ce {CnH2n}$$
-	-
+	- ![image.png](../assets/image_1715929451045_0.png)
+	- Isomers in Alkene form when there are 4 or more carbon atoms.
+-
+- ## Ethene
+	- ### Structure of Ethene
+		- It is the first member of the alkene series. It is present in natural gas. In small amounts, it occurs as a plant hormone and is responsible for the ripening of fruits.
+		- Each carbon atom of ethene is attached to two hydrogen atoms by single covalent bonds and to another carbon atom by a double covalent bond.
+		- There are four $$\ce {C\bond{-}H}$$ single covalent bonds and one $$\ce {C\bond{=}H}$$ double covalent bond. It is a planar molecule. All bond angles ($$\ce {H\bond{-}C\bond{-}H}$$ and $$\ce {H\bond{-}C\bond{=}C}$$) are of 120 degrees.
+		  ![image.png](../assets/image_1715930828162_0.png)
+	- ### Preparation of Ethene
+		- #### Dehydration of Ethanol
+			- $$\ce {CH3CH2OH + H2SO4 -> CH3CH2HSO4 + H2O}$$
+			- $$\ce {CH3CH2HSO4 ->[\ce{Conc. H2SO4}][\text 170C] CH2=CH2 + H2SO4}$$
+			- #### Collection: Downward Displacement
+		- #### Industrial Prep
+			- ![image.png](../assets/image_1717941602941_0.png)
+		- #### Dehydrohalogenation
+			- ![image.png](../assets/image_1717941623389_0.png)
+-
+- ## Properties of Alkenes
+	- ### A. Physical Properties
+		- Ethene - Colourless, Inflammable, Sweetish smell (trend)
+		- BP -102C | MP -169C
+		- Sparingly Soluble in Water, highly solb. in Org Solvents
+		- Anaesthetic upon inhalation
+	- ### B. Chemical Properties
+		- #### Hydrogenation: Add Hydrogen passed over fine div. Pt or Pd at norm temp w/ Ni at 200C
+		- #### Halogenation:
+			- ![image.png](../assets/image_1717942642082_0.png)
+			- ![image.png](../assets/image_1717942706911_0.png)
+			- Cl, Br, I, are added to the double bond of the ethene at room temperature to form saturated ethylene chloride ethylene bromide and ethylene iodide.
+			- ![image.png](../assets/image_1717942771443_0.png)
+		- #### Hydration:
+			- A water molecule gets added to alkenes in the presence of acids (e.g., sulphuric acid) to form alcohols.
+			- ![image.png](../assets/image_1717943104000_0.png)
+		- #### Addition of $$\ce{HCl}$$
+			- ![image.png](../assets/image_1717943149290_0.png)
+		- #### Reaction w/ Ozone
+			- ![image.png](../assets/image_1717943413516_0.png)
+		- ![image.png](../assets/image_1717943432645_0.png)
+		- ![image.png](../assets/image_1717943448711_0.png)

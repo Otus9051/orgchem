@@ -1,3 +1,6 @@
 - {{renderer :tocgen2, [[basics]], calc(100vh - 135px)}}
 - {{renderer :tocgen2, [[alkanes]], calc(100vh - 135px)}}
-- {{renderer :tocgen2, [[alcohols]], calc(100vh - 135px)}}
+- {{renderer :tocgen2, [[Alkenes]] , calc(100vh - 135px)}}
+- {{renderer :tocgen2, [[Alkynes]] , calc(100vh - 135px)}}
+- {{renderer :tocgen2, [[Alcohols]] , calc(100vh - 135px)}}
+- {{renderer :tocgen2, [[Carboxylic Acid]] , calc(100vh - 135px)}}

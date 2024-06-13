@@ -1,0 +1,31 @@
+## Definition
+	- ### Organic Compound containing $$\ce{-COOH}$$
+	- ![image.png](../assets/image_1718258964316_0.png)
+	- ### 1 Group: monocarboxylic
+	- ### 2 Group: dicarboxylic
+- ![image.png](../assets/image_1718259009210_0.png)
+-
+- ## Acetic Acid $$\ce{CH3COOH}$$
+	- ### Structural Formula
+		- ![image.png](../assets/image_1718262402536_0.png)
+	- ### Lab Preparation
+		- Acetic acid can be prepared in the lab by **oxidation** of **ethanol** or **acetaldehyde** with acidified **potassium dichromate** or acidified **sodium dichromate** [Anything that gives out **Nascent Oxygen**]
+		- Formula: $$\ce{CH3CH2OH ->[(O)] CH3CHO ->[(O)] CH3COOH}$$
+	- ### Manufacture
+		- #### **Acetylene**
+			- ![image.png](../assets/image_1718262675668_0.png)
+		- #### **Ethanol**
+			- ![image.png](../assets/image_1718262693264_0.png)
+	- ### Physical Properties
+		- Colourless
+		- Pungent
+		- BP 118C
+		- Acid on cooling forms crystalline mass resembling ice, melting point 17C, called glacial acetic acid
+		- Hygroscopic, sp. gr. at 0C is 1.08
+		- Miscible with water, alc, ether
+	- ### Chemical Properties
+		- Weak Acid
+		- Turns blue litmus red
+		- ![image.png](../assets/image_1718262816307_0.png)
+		- ![image.png](../assets/image_1718262836332_0.png)
+		-

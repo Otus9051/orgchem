@@ -1,2 +1,3 @@
 - {{renderer :tocgen2, [[basics]], calc(100vh - 135px)}}
 - {{renderer :tocgen2, [[alkanes]], calc(100vh - 135px)}}
+- {{renderer :tocgen2, [[alcohols]], calc(100vh - 135px)}}
